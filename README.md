@@ -44,7 +44,7 @@ npm -v
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/IsuruIndrajith/iwb25-004-logiclegion.git
 cd expense-tracker
 ```
 
@@ -226,6 +226,4 @@ The production files are inside `dist/`. You can host them with Netlify, Vercel,
 * You can extend with database (MySQL/MongoDB) later.
 * Works best with **Postman** or **frontend UI** for testing.
 
----
 
-👉 Do you want me to write you a **combined GitHub README** that also includes screenshots/diagrams (so your hackathon repo looks polished), or keep it minimal like this?

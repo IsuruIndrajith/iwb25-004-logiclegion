@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
